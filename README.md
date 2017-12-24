@@ -14,6 +14,5 @@ Steps to install
          npm install
     
 3.
-    
-    
-      npm start
+         
+         npm start
