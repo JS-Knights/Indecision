@@ -15,4 +15,4 @@ Steps to install
     
 3.
          
-         npm start
+         npm run dev-server
